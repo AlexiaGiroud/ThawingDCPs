@@ -1,0 +1,79 @@
+﻿Day;State;Condition;Concentration (cells/mL);;;Time;State;cDC1 - everyday;2 step - everyday;cDC1 - no change;HSC - no change;cDC1 - every 2 days;2 step - every 2 days
+Day 0;;cDC1 change everyday;250000;;;;;;;;;;
+Day 1;Live;cDC1 change everyday;130000;;;Day 1;Live ;0,962962963;0,84;0,846153846;0,84375;0,909090909;0,933333333
+Day 1;Dead;cDC1 change everyday;5000;;;Day 1;Dead;0,037037037;0,16;0,153846154;0,15625;0,090909091;0,066666667
+Day 2;Live;cDC1 change everyday;70000;;;Day 2;Live ;0,777777778;0,818181818;1;1;0,888888889;0,9375
+Day 2;Dead;cDC1 change everyday;20000;;;Day 2;Dead;0,222222222;0,181818182;0;0;0,111111111;0,0625
+Day 3;Live;cDC1 change everyday;25000;;;Day 3;Live ;1;1;0,925;0,897959184;0,92;0,914285714
+Day 3;Dead;cDC1 change everyday;0;;;Day 3;Dead;0;0;0,075;0,102040816;0,08;0,085714286
+Day 4;Live;cDC1 change everyday;55000;;;Day 4;Live;0,785714286;0,833333333;0,957894737;0,945945946;0,97029703;0,968253968
+Day 4;Dead;cDC1 change everyday;15000;;;Day 4;Dead;0,214285714;0,166666667;0,042105263;0,054054054;0,02970297;0,031746032
+Day 5;Live;cDC1 change everyday;65000;;;Day 5;Live;0,8125;0,818181818;0,933333333;0,966666667;0,98;0,978947368
+Day 5;Dead;cDC1 change everyday;15000;;;Day 5;Dead;0,1875;0,181818182;0,066666667;0,033333333;0,02;0,021052632
+Day 6;Live;cDC1 change everyday;95000;;;Day 6;Live ;0,863636364;0,909090909;0,970149254;0,962962963;0,988188976;0,985294118
+Day 6;Dead;cDC1 change everyday;15000;;;Day 6;Dead;0,136363636;0,090909091;0,029850746;0,037037037;0,011811024;0,014705882
+Day 0;;cDC1 - every 2 days;250000;;;;;;;;;;
+Day 1;Live;cDC1 - every 2 days;100000;;;;;;;;;;
+Day 1;Dead;cDC1 - every 2 days;10000;;;;;;;;;;
+Day 2;Live;cDC1 - every 2 days;280000;;;;;;;;;;
+Day 2;Dead;cDC1 - every 2 days;35000;;;;;;;;;;
+Day 3;Live;cDC1 - every 2 days;230000;;;;;;;;;;
+Day 3;Dead;cDC1 - every 2 days;20000;;;;;;;;;;
+Day 4;Live;cDC1 - every 2 days;490000;;;;;;;;;;
+Day 4;Dead;cDC1 - every 2 days;15000;;;;;;;;;;
+Day 5;Live;cDC1 - every 2 days;735000;;;;;;;;;;
+Day 5;Dead;cDC1 - every 2 days;15000;;;;;;;;;;
+Day 6;Live;cDC1 - every 2 days;1255000;;;;;;;;;;
+Day 6;Dead;cDC1 - every 2 days;15000;;;;;;;;;;
+Day 0;;cDC1 - no change;250000;;;;;;;;;;
+Day 1;Live;cDC1 - no change;55000;;;;;;;;;;
+Day 1;Dead;cDC1 - no change;10000;;;;;;;;;;
+Day 2;Live;cDC1 - no change;95000;;;;;;;;;;
+Day 2;Dead;cDC1 - no change;0;;;;;;;;;;
+Day 3;Live;cDC1 - no change;185000;;;;;;;;;;
+Day 3;Dead;cDC1 - no change;15000;;;;;;;;;;
+Day 4;Live;cDC1 - no change;455000;;;;;;;;;;
+Day 4;Dead;cDC1 - no change;20000;;;;;;;;;;
+Day 5;Live;cDC1 - no change;280000;;;;;;;;;;
+Day 5;Dead;cDC1 - no change;20000;;;;;;;;;;
+Day 6;Live;cDC1 - no change;650000;;;;;;;;;;
+Day 6;Dead;cDC1 - no change;20000;;;;;;;;;;
+Day 0;;HSC change everyday;250000;;;;;;;;;;
+Day 1;Live;HSC change everyday;105000;;;;;;;;;;
+Day 1;Dead;HSC change everyday;20000;;;;;;;;;;
+Day 2;Live;HSC change everyday;45000;;;;;;;;;;
+Day 2;Dead;HSC change everyday;10000;;;;;;;;;;
+Day 3;Live;HSC change everyday;20000;;;;;;;;;;
+Day 3;Dead;HSC change everyday;0;;;;;;;;;;
+Day 4;Live;HSC change everyday;50000;;;;;;;;;;
+Day 4;Dead;HSC change everyday;10000;;;;;;;;;;
+Day 5;Live;HSC change everyday;45000;;;;;;;;;;
+Day 5;Dead;HSC change everyday;10000;;;;;;;;;;
+Day 6;Live;HSC change everyday;100000;;;;;;;;;;
+Day 6;Dead;HSC change everyday;10000;;;;;;;;;;
+Day 0;;HSC - every 2 days;250000;;;;;;;;;;
+Day 1;Live;HSC - every 2 days;70000;;;;;;;;;;
+Day 1;Dead;HSC - every 2 days;5000;;;;;;;;;;
+Day 2;Live;HSC - every 2 days;225000;;;;;;;;;;
+Day 2;Dead;HSC - every 2 days;15000;;;;;;;;;;
+Day 3;Live;HSC - every 2 days;160000;;;;;;;;;;
+Day 3;Dead;HSC - every 2 days;15000;;;;;;;;;;
+Day 4;Live;HSC - every 2 days;305000;;;;;;;;;;
+Day 4;Dead;HSC - every 2 days;10000;;;;;;;;;;
+Day 5;Live;HSC - every 2 days;465000;;;;;;;;;;
+Day 5;Dead;HSC - every 2 days;10000;;;;;;;;;;
+Day 6;Live;HSC - every 2 days;670000;;;;;;;;;;
+Day 6;Dead;HSC - every 2 days;10000;;;;;;;;;;
+Day 0;;HSC - no change;250000;;;;;;;;;;
+Day 1;Live;HSC - no change;135000;;;;;;;;;;
+Day 1;Dead;HSC - no change;25000;;;;;;;;;;
+Day 2;Live;HSC - no change;65000;;;;;;;;;;
+Day 2;Dead;HSC - no change;0;;;;;;;;;;
+Day 3;Live;HSC - no change;220000;;;;;;;;;;
+Day 3;Dead;HSC - no change;25000;;;;;;;;;;
+Day 4;Live;HSC - no change;175000;;;;;;;;;;
+Day 4;Dead;HSC - no change;10000;;;;;;;;;;
+Day 5;Live;HSC - no change;290000;;;;;;;;;;
+Day 5;Dead;HSC - no change;10000;;;;;;;;;;
+Day 6;Live;HSC - no change;260000;;;;;;;;;;
+Day 6;Dead;HSC - no change;10000;;;;;;;;;;
