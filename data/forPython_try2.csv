@@ -1,4 +1,4 @@
-﻿Time;Sample;cDC1;Macrophages;cDC2;pDCs;MDP;Monocytes;HSC;T cells;DCPs;B cells;NK cells, Eosinophils, granulocytes, neutrophils;Others 
+﻿Time;Sample;cDC1;Macrophages;cDC2;pDCs;MDP;Monocytes;HSC;Cells negative for all markers;DCPs;B cells;NK cells, Eosinophils, granulocytes, neutrophils;Others 
 Before thawing;US;0;0;0;0;0;0;0;0,994;0;0;0;0,006
 Before thawing - Pre-sort;cDC1 no change;0,0099;0,0546;0,02208;0,0195;0,00022;0,0841;0,00066;0,0906;0,21;0,0723;0,157;0,27904
 Before thawing - Pre-sort;cDC1 change everyday;0,0099;0,0546;0,02208;0,0195;0,00022;0,0841;0,00066;0,0906;0,21;0,0723;0,157;0,27904
